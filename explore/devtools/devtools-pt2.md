@@ -1,0 +1,2 @@
+1. The bug adds two numbers as strings instead of numbers. For example, 1 + 2 would equal "12" instead of 3.
+2. I would typecast the values of num1 and num2 to be numbers instead of strings. As a result, the value is now outputing 3.
